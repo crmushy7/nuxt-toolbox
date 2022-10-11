@@ -15,7 +15,7 @@
         maelezo
         <a href="https://github.com/netlify-templates/nuxt-toolbox"
           >https://github.com/netlify-templates/nuxt-toolbox</a
-        >maelezo
+        >maelezooooooo
       </p>
     </div>
     
